@@ -1,5 +1,5 @@
 import { useContext } from 'react'
-import Layout from '../../../components/layout/Layout'
+import Layout from '../../../Components/Layout/Layout'
 import myContext from '../../../Context/data/myContext';
 import { Button } from '@material-tailwind/react';
 import { Link, useNavigate } from 'react-router-dom';
