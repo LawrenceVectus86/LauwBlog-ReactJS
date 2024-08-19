@@ -7,7 +7,7 @@ import { fireDB } from '../../Firebase/FirebaseConfig';
 import Loader from '../../Components/Loader/Loader';
 import Comment from '../../Components/Comment/Comment';
 import toast from 'react-hot-toast';
-import Layout from '../../components/layout/Layout';
+import Layout from '../../Components/Layout/Layout';
 
 function BlogInfo() {
   const context = useContext(myContext);

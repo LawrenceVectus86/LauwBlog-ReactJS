@@ -1,5 +1,5 @@
 import {useEffect} from 'react'
-import Layout from '../../components/layout/Layout'
+import Layout from '../../Components/Layout/Layout'
 import HeroSection from '../../Components/heroSection/HeroSection'
 import BlogPostCard from '../../Components/blogPostCard/BlogPostCard'
 // import Loader from '../../Components/Loader/Loader'

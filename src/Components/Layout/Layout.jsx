@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types'; // {{ edit_1 }}
-import Navbar from '../Navbar/Navbar.jsx'
+import Navbar from '../Navbar/Navbar.jsx';
 import Footer from '../Footer/Footer.jsx'
+import React from 'react';
 
 function Layout({ children }) {
     return (
